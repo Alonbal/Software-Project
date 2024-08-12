@@ -1,0 +1,7 @@
+write in terminal:
+1. chmod +x run_symnmf.sh
+2. ./run_symnmf.sh
+
+to clear files:
+1. chmod +x clear.sh
+2. ./clear.sh
